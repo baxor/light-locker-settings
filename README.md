@@ -10,6 +10,7 @@
   - Lock on suspend/hibernate
 
 ### Dependencies:
+  - GTK3
   - Python (2 or 3)
   - python-psutil
   - light-locker
